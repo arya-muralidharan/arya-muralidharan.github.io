@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Welcome!
 description: Arya Muralidharan's GitHub Homepage.
+navbar:
+  title: "Navigation"
+  left: 
+  - text: "NBA Name Chains"
+  href: https://arya-muralidharan.github.io/name-chains/
