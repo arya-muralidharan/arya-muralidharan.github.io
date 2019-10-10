@@ -1,1 +1,1 @@
-[Name Chains](https://arya-muralidharan.github.io/name-chains/)!
+[Name Chains](https://arya-muralidharan.github.io/name-chains/)
